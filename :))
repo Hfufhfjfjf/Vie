@@ -1,0 +1,6 @@
+Config = {
+    namescript = ":))",--Tên Script
+    logoscript = "93489981940027",--ID Logo Script
+    tacgia = Việt roblox-- Tên Tác Giả
+}
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ImTienNguyenZ/AppleHub/main/LoaderBF"))()
